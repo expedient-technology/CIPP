@@ -10,7 +10,7 @@
       }
     },
     "GithubRepository": {
-      "defaultValue": "https://github.com/KelvinTegelaar/CIPP",
+      "defaultValue": "https://github.com/expedient-technology/CIPP",
       "type": "string",
       "metadata": {
         "description": "URL to your Github Frontend fork."
